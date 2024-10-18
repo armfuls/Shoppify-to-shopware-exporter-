@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Shopify to Shopware Exporter</title>
-</head>
-<body>
-
 <h1>Shopify to Shopware Exporter</h1>
 
 <p>Een tool om producten, klanten en bestellingen van Shopify te exporteren en in Shopware te importeren.</p>
