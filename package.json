@@ -1,0 +1,21 @@
+{
+  "name": "shopify-to-shopware-exporter",
+  "version": "1.0.0",
+  "description": "An app to export Shopify products, map them, and import to Shopware",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "shopify-api-node": "^3.12.2",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.3",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.23",
+    "autoprefixer": "^10.4.14"
+  }
+}
